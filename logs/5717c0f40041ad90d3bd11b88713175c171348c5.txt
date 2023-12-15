@@ -1,0 +1,21 @@
+/home/vsts/work/1
+├── TestResults
+├── a
+├── b
+└── s
+    ├── 5717c0f40041ad90d3bd11b88713175c171348c5.txt
+    ├── README.md
+    ├── azure-pipelines-1.yml
+    ├── azure-pipelines.yml
+    └── logs
+
+5 directories, 4 files
+commit 5717c0f40041ad90d3bd11b88713175c171348c5
+Author: 장예찬 <redniche@naver.com>
+Date:   Fri Dec 15 11:37:41 2023 +0000
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+README.md
+azure-pipelines-1.yml
+azure-pipelines.yml
